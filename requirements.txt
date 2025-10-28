@@ -1,0 +1,8 @@
+gdown
+bitsandbytes
+transformers
+accelerate
+peft
+datasets
+torch
+diffusers @ git+https://github.com/huggingface/diffusers.git
