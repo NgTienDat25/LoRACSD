@@ -1,6 +1,6 @@
 # LoRA Training Project for SDXL (TOK Home)
 
-This is a LoRA training project for Stable Diffusion XL 1.0 with TOK Home architectural image dataset, applying CSD (Semantic Richness) technique to improve caption quality.
+This project fine-tunes Stable Diffusion XL 1.0 using a custom TOK Home architectural image dataset, applying the CSD (Semantic Richness) technique to enhance image quality and better align generated results with the dataset — even when prompts are low-quality, the dataset is small, and computational resources are limited.
 
 ## Scheduler Comparison (Same Seed/Prompt)
 
